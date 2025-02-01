@@ -1,0 +1,3 @@
+MCode:M3952
+Programmer:Infineon
+Voltage: 5V

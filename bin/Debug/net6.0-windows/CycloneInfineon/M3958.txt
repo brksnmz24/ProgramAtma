@@ -1,0 +1,3 @@
+MCode:M3958
+Programmer:Infineon
+Voltage:5V
